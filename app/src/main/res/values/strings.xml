@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">TourOfFresno</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_food">FOOD</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_fun">FUN</string>
+
+    <string name="category_near">NEAR</string>
+
+
+    <!--FoodFragments Strings-->
+    <string name="dog">Dog House Grill</string>
+    <string name="dog_note">TriTip All Day</string>
+    <string name="dog_address">2789 E Shaw Ave, Fresno, CA 93710</string>
+
+    <string name="don">Don Pepe</string>
+    <string name="don_note">Spicy Shrimp Burrito</string>
+    <string name="don_address">4582 N Blackstone Ave, Fresno, CA 93726</string>
+
+    <string name="thai">Thai Country</string>
+    <string name="thai_note">Panang Special</string>
+    <string name="thai_address">151 W Bullard Ave, Clovis, CA 93612</string>
+
+    <string name="pho">Pho Delight</string>
+    <string name="pho_note">Pho at a great price</string>
+    <string name="pho_address">393 W Shaw Ave, Clovis, CA 93612</string>
+
+    <string name="bakery">Bakery Delights</string>
+    <string name="bakery_note">Pork Buns, BBQ Pork and MORE!</string>
+    <string name="bakery_address">6749 N Cedar Ave, Fresno, CA 93710</string>
+
+    <string name="premo">Premo Pizza</string>
+    <string name="premo_note">$10 Medium Unlimited Toppings</string>
+    <string name="premo_address">8887 N Chestnut Ave, Fresno, CA 93720</string>
+
+    <string name="queen">Queen Sandwich and Cake</string>
+    <string name="queen_note">BEST! Vietnamese Sandwich</string>
+    <string name="queen_address">2318 N Fresno St, Fresno, CA 93703</string>
+
+    <string name="teriyaki">Teriyaki Don</string>
+    <string name="teriyaki_note">Spicy Crispy Teriayaki Chicken</string>
+    <string name="teriyaki_address">6731 N Cedar Ave, Fresno, CA 93710</string>
+
+    <string name="club">The 500 Club Casino</string>
+    <string name="club_note">Papaya, Asian FOOD! Open 24 Hours</string>
+    <string name="club_address">771 W Shaw Ave, Clovis, CA 93612</string>
+
+    <string name="tako">Tako BBQ Food Truck</string>
+    <string name="tako_note">Spicy Pork Burrito, YUM</string>
+    <string name="tako_address">Find them on Facebook</string>
+
+    <string name="rock">Rock and Noodles</string>
+    <string name="rock_note">Korean Ramen, Bowls are HUGE</string>
+    <string name="rock_address">2225 W Shaw Ave #104, Fresno, CA 93711</string>
+
+    <string name="shila">Shila Korean BBQ</string>
+    <string name="shila_note">All you can eat korean BBQ</string>
+    <string name="shila_address">1205 Herdon Ave Ste 104, Clovis, CA 93612</string>
+
+    <!--EventsFragments Strings-->
+
+    <string name="hmong">Hmong Near Year</string>
+    <string name="hmong_note">December 26th - January 1st</string>
+    <string name="hmong_address">1121 S Chance Ave, Fresno, CA 93702</string>
+
+    <string name="obon">Obon Frestival of Lanterns</string>
+    <string name="obon_note">Japanese Frestival, In July</string>
+    <string name="obon_address">2720 E. Alluvial, Clovis, CA 93638</string>
+
+    <string name="moon">Fresno Tzu Chi Moon Festival</string>
+    <string name="moon_note">In September</string>
+    <string name="moon_address">7421 N. Maple Avenue Fresno, CA 93720</string>
+
+    <string name="greek">Fresno Greek Fest</string>
+    <string name="greek_note">In August</string>
+    <string name="greek_address">2219 N Orchard St, Fresno, CA 93703</string>
+
+    <string name="fair">The Big Fresno Fairgrounds</string>
+    <string name="fair_note">October 4-15th!</string>
+    <string name="fair_address">1121 S Chance Ave, Fresno, CA 93702</string>
+
+    <string name="river_farmers">River Park Farmers Market</string>
+    <string name="river_farmers_note">Tuesday Nights, Check for Updates</string>
+    <string name="river_farmers_address">71 E Via la Plata, Fresno, CA 93720</string>
+
+    <string name="old_farmers">Old Town Clovis Farmers Market</string>
+    <string name="old_farmers_note">Dates Vary, Check Online</string>
+    <string name="old_farmers_address">Old Town Clovis, Clovis, CA 93612</string>
+
+    <string name="shakespeare">Woodward Shakespeare Festival</string>
+    <string name="shakespeare_note">Play at the Park</string>
+    <string name="shakespeare_address">7405 N First St, Fresno, CA 93720</string>
+
+    <string name="rodeo">Clovis Rodeo</string>
+    <string name="rodeo_note">April 27th-30th</string>
+    <string name="rodeo_address">748 Rodeo Dr, Clovis, CA 93612</string>
+
+    <!--NearFragments Strings-->
+    <string name="lost">Lost Lake</string>
+    <string name="lost_note">BBQ, Eating, Swimming</string>
+    <string name="lost_address">16385 N Friant Rd, Friant, CA 93626</string>
+
+    <string name="Millerton">Millerton Lake</string>
+    <string name="Millerton_note">Boating, Fishing, Swimming</string>
+    <string name="Millerton_address">Millerton Lake, California 93626</string>
+
+    <string name="sky">Sky Harbor</string>
+    <string name="sky_note">Drive All the Way Down</string>
+    <string name="sky_address">Sky Harbour Rd, Friant, CA 93626</string>
+
+    <string name="Shaver">Shaver Lake</string>
+    <string name="Shaver_note">SUPER Beautiful Place</string>
+    <string name="Shaver_address">41593 Tollhouse Rd, Shaver Lake, CA 93664</string>
+
+    <string name="Yosemite">Yosemite National Park</string>
+    <string name="Yosemite_note">Nature at its best</string>
+    <string name="Yosemite_address">Look it Up</string>
+
+    <string name="China">China Peak</string>
+    <string name="China_note">Snowboarding if there is Snow</string>
+    <string name="China_address">59265 CA-168, Lakeshore, CA 93634</string>
+
+    <string name="Sequoia">Sequoia National Park</string>
+    <string name="Sequoia_note">Dem Trees are Tall</string>
+    <string name="Sequoia_address">Look it Up</string>
+
+
+    <!--FunFragment Strings-->
+    <string name="woodward">Woodward Park</string>
+    <string name="woodward_note">Trails, Picnic, Feed the Ducks!</string>
+    <string name="woodward_address">7775 Friant Rd, Fresno, CA 93650</string>
+
+    <string name="table">Table Mountain</string>
+    <string name="table_note">Gamble Till The Sun Comes Up</string>
+    <string name="table_address">8184 Table Mountain Rd, Friant, CA 93626</string>
+
+    <string name="fashion">Fashion Fair</string>
+    <string name="fashion_note">Shop Till You Drop</string>
+    <string name="fashion_address">645 E Shaw Ave, Fresno, CA 93710</string>
+
+    <string name="Sierra">Sierra Vista Mall</string>
+    <string name="Sierra_note">Shopping, not as busy</string>
+    <string name="Sierra_address">1050 Shaw Ave, Clovis, CA 93612</string>
+
+    <string name="River">River Park</string>
+    <string name="River_note">Teazers, Edwards Cinema, Froyo</string>
+    <string name="River_address">71 E Via la Plata, Fresno, CA 93720</string>
+
+    <string name="Maya">Maya Cinemas Area</string>
+    <string name="Maya_note">Soda Sopa of Fresno</string>
+    <string name="Maya_address">3090 E Campus Pointe Dr, Fresno, CA 93710</string>
+
+    <string name="fresno_state">California State University, Fresno</string>
+    <string name="fresno_state_note">Bowling, Madden Library, College</string>
+    <string name="fresno_state_address">5241 N Maple Ave, Fresno, CA 93740</string>
+
+    <string name="Blackbeards">Blackbeards</string>
+    <string name="Blackbeards_note">Old equipment, its just Okay</string>
+    <string name="Blackbeards_address">4055 N Chestnut Diagonal, Fresno, CA 93727</string>
+
+    <string name="boomers">Boomers! Fresno</string>
+    <string name="boomers_note">Arcades, go-karts, Decent Place</string>
+    <string name="boomers_address">7354 N Abby St, Fresno, CA 93720</string>
+
+    <string name="dave">Dave and Busters</string>
+    <string name="dave_note">Fresno has one</string>
+    <string name="dave_address">212 East River Park Circle, Fresno, CA 937200</string>
+
+    <string name="Save">Save Mart Center</string>
+    <string name="Save_note">Events and Tickets Online</string>
+    <string name="Save_address">2650 E Shaw Ave, Fresno, CA 93710</string>
+
+    <string name="Saroyan">Saroyan Theatre</string>
+    <string name="Saroyan_note">Shows, Plays, MORE!</string>
+    <string name="Saroyan_address">730 M St, Fresno, CA 93721</string>
+
+    <string name="Tower">The Tower Theatre</string>
+    <string name="Tower_note">Performing Arts!</string>
+    <string name="Tower_address">3090 E Campus Pointe Dr, Fresno, CA 93710</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

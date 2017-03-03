@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/text_container"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="88dp">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/layout_width"
+        android:layout_height="@dimen/layout_height"
+        android:src="@drawable/doghouse"/>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="@dimen/layout_width"
+        android:orientation="vertical"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:id="@+id/top_text"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            tools:text="Top"
+            android:textStyle="bold"
+            android:textSize="@dimen/top_font"/>
+
+        <TextView
+            android:id="@+id/bottom_text"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5"
+            android:gravity="bottom"
+            android:paddingRight="16dp"
+            tools:text="Bottom" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/address"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="@dimen/layout_width"
+        android:layout_height="wrap_content"
+        tools:text="Location" />
+    </RelativeLayout>
+
+</LinearLayout>
